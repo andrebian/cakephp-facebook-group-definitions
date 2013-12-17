@@ -10,6 +10,7 @@ http://blog.erikfigueiredo.com.br/cursos-de-php-e-cakephp/
 
 
 Investimento: R$ 285,00
+
 Data prevista para início: 18/01/2014
 
 ---------------------------------
