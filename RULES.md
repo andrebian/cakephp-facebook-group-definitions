@@ -12,6 +12,6 @@ requisitos será removida sem prévio aviso.
 Se for pedir opinião ou realizar pesquisa, certifique-se de que o tema abordado 
 seja a respeito do framework e que seja na forma de um post. 
 Qualquer tipo de pesquisa que leve a outro site (google docs, um site ou blog qualquer) 
-será removido sem prévio aviso.
+será removida sem prévio aviso.
 
 
