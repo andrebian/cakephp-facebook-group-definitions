@@ -1,16 +1,13 @@
 CURSOS E OPORTUNIDADES
 ===============
 
-
 ---------------------------------
 
-Curso de CakePHP nível Iniciante/Intermediário, aulas em grupo e particulares no 
-mesmo curso, mais detalhes e grade: 
-http://blog.erikfigueiredo.com.br/cursos-de-php-e-cakephp/
+Curso de CakePHP nível Iniciante/Intermediário: 
+http://www.webdevbr.com.br/curso/curso-de-cakephp
 
+Investimento: R$ 290,00
 
-Investimento: R$ 285,00
-
-Data prevista para início: 18/01/2014
+Aulas gravas e ao vivo
 
 ---------------------------------
